@@ -1,1 +1,1 @@
-web: fiori run index.html
+web: npm start
